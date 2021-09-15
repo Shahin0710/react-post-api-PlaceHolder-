@@ -1,0 +1,10 @@
+.pages {
+    padding-top: 150px;
+    text-align: center;
+}
+
+.notFound {
+    padding-top: 150px;
+    text-align: center;
+    color: red;
+}
